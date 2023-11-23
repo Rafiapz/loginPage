@@ -1,0 +1,48 @@
+.fsdv{
+
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(10, 25, 17);
+    
+    padding-top: 5%;
+    padding-left: 20%;
+    
+}
+.wrt{
+
+    color: white;
+    
+}
+.btdv{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.a{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
+.stt{
+
+    color: red;
+}
+.ermn{
+
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.cd{
+
+    margin-left: 50px;
+}
+.hh{
+
+    color: red;
+}
